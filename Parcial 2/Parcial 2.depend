@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1574716379 source:c:\users\nahue\desktop\esqueleto parcial\parcial 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574716699 source:c:\users\nahue\desktop\esqueleto parcial\parcial 2\pediryvalidar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"PediryValidar.h"
+
+1574716347 c:\users\nahue\desktop\esqueleto parcial\parcial 2\pediryvalidar.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1574716938 source:c:\users\nahue\desktop\esqueleto parcial\parcial 2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Estructura.h"
+
+1574734445 c:\users\nahue\desktop\esqueleto parcial\parcial 2\linkedlist.h
+
+1574717501 c:\users\nahue\desktop\esqueleto parcial\parcial 2\estructura.h
+	<stdio.h>
+	<stdlib.h>
+
+1574777578 source:c:\users\alumno\desktop\parcial-2-master\esqueleto parcial\parcial 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Estructura.h"
+	"PediryValidar.h"
+
+1574776404 source:c:\users\alumno\desktop\parcial-2-master\esqueleto parcial\parcial 2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Estructura.h"
+
+1574737125 c:\users\alumno\desktop\parcial-2-master\esqueleto parcial\parcial 2\linkedlist.h
+
+1574777385 c:\users\alumno\desktop\parcial-2-master\esqueleto parcial\parcial 2\estructura.h
+	<stdio.h>
+	<stdlib.h>
+	"Pilotos.h"
+
+1574737125 source:c:\users\alumno\desktop\parcial-2-master\esqueleto parcial\parcial 2\pediryvalidar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"PediryValidar.h"
+
+1574737125 c:\users\alumno\desktop\parcial-2-master\esqueleto parcial\parcial 2\pediryvalidar.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1574777385 source:c:\users\alumno\desktop\parcial-2-master\esqueleto parcial\parcial 2\estructura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Estructura.h"
+	"PediryValidar.h"
+
+1574769869 c:\users\alumno\desktop\parcial-2-master\esqueleto parcial\parcial 2\pilotos.h
+	<stdio.h>
+	<stdlib.h>
+
+1574771020 source:c:\users\alumno\desktop\parcial-2-master\esqueleto parcial\parcial 2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574771253 source:c:\users\alumno\desktop\parcial-2-master\esqueleto parcial\parcial 2\pilotos.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilotos.h"
+
